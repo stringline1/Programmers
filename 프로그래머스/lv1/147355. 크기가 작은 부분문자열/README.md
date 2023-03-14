@@ -29,7 +29,7 @@
 <li><code>p</code>의 길이 ≤ <code>t</code>의 길이 ≤ 10,000</li>
 <li><code>t</code>와 <code>p</code>는 숫자로만 이루어진 문자열이며, 0으로 시작하지 않습니다.</li>
 </ul>
-
+ 
 <hr>
 
 <h5>입출력 예</h5>
